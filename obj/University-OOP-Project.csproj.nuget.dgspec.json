@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\University-OOP\\University-OOP-Project\\University-OOP-Project.csproj": {}
+    "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\University-OOP\\University-OOP-Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\University-OOP\\University-OOP-Project\\University-OOP-Project.csproj": {
+    "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\University-OOP\\University-OOP-Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\University-OOP\\University-OOP-Project\\University-OOP-Project.csproj",
+        "projectUniqueName": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\University-OOP\\University-OOP-Project.csproj",
         "projectName": "University-OOP-Project",
-        "projectPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\University-OOP\\University-OOP-Project\\University-OOP-Project.csproj",
+        "projectPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\University-OOP\\University-OOP-Project.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\University-OOP\\University-OOP-Project\\obj\\",
+        "outputPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\University-OOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
