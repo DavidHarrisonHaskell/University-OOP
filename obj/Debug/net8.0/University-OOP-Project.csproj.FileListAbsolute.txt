@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\obj\Debug\net8.0\University-OOP-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\obj\Debug\net8.0\University-OOP-Project.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\obj\Debug\net8.0\University-OOP-Project.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\obj\Debug\net8.0\University-OOP-Project.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\obj\Debug\net8.0\University-OOP-Project.sourcelink.json
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\bin\Debug\net8.0\University-OOP-Project.exe
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\bin\Debug\net8.0\University-OOP-Project.deps.json
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\bin\Debug\net8.0\University-OOP-Project.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\bin\Debug\net8.0\University-OOP-Project.dll
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\bin\Debug\net8.0\University-OOP-Project.pdb
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\obj\Debug\net8.0\University-OOP-Project.dll
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\obj\Debug\net8.0\refint\University-OOP-Project.dll
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\obj\Debug\net8.0\University-OOP-Project.pdb
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\obj\Debug\net8.0\University-OOP-Project.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\GitHub\University-OOP\obj\Debug\net8.0\ref\University-OOP-Project.dll
